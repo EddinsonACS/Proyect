@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647395680883",
+    "project_id": "primerospasosapp-a6ce8",
+    "storage_bucket": "primerospasosapp-a6ce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647395680883:android:23b009a6db8cfacb420006",
+        "android_client_info": {
+          "package_name": "com.example.primerospasosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiYfcLMfVK1MqTiZZuGgUXIyyTgwrpymo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
